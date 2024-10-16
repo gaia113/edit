@@ -90,7 +90,7 @@
 * [VidSrc](https://rentry.org/vidsrc) - VidSrc Hosting Sites
 * [mov-cli](https://mov-cli.github.io/) - Streaming / Downloading CLI / [Plugins](https://github.com/topics/mov-cli-plugin) /  [GitHub](https://github.com/mov-cli/mov-cli)
 * [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
-
+* [MoviDash](https://movidash.com/) - Movies / TV /
 ***
 
 ## ▷ Single Server
